@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="index.js"></script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <title>The Name Rater</title>
+  </head>
+  <body>
+    <div class="title">
+      <h3>The</h3>
+      <h1>NAME RATER</h1>
+      <p>
+        <strong>Know if your name is objectively horrible!</strong>
+        <br />
+        <sub>(patent pending)</sub>
+      </p>
+    </div>
+    <p>Click "submit" to rate your name!</p>
+    <p>Your first name:</p>
+    <form id="input" onsubmit="return false;">
+      <input type="text" id="inputbox" onsubmit="Rating()" />
+      <br />
+      <br />
+      <input type="submit" id="submission" value="SUBMIT!" onclick="Rating()"
+      />
+    </form>
+    <p id="output"></p>
+    <div id="div0">
+      <button id="rollbuttn" onclick="ricketyroll()">Click Me!</button>
+    </div>
+    <sub>No offense intended to any real persons mentioned.</sub>
+  </body>
+</html>
