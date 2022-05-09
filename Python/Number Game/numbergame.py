@@ -1,6 +1,7 @@
 import random
 
 b = random.randrange(1, 11)
+#untag below for cheater mode
 #print(b)
 a = int(input("Input a number from 1 to 10"))
 
