@@ -1,2 +1,2 @@
 # My-stuff
-it's my stuff
+it is my stuff
