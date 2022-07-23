@@ -2,7 +2,7 @@ using System;
 
 public class Program
 {
-    static public void Main()
+    static public void Main(string[] fhqwhgads)
     {
         for (int bottleNumber = 100; 1 < bottleNumber; bottleNumber--)
         {
