@@ -2,10 +2,11 @@ import os
 import random
 
 bullet = random.randint(1,6)
-data_file = '/usercode/hello.txt'
-if bullet != 6:
+data_file = os.getcwd() + '/hello.txt'
+
+if bullet:
+  if bullet != 3:  
     print("safe!")
-else:
+  else:
     print("bye bye!")
-if bullet == 6:
     os.remove(data_file)
