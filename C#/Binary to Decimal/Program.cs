@@ -17,12 +17,7 @@ public class BinaryToDecimal
 		int count = 0;
 		foreach (char x in binput)
 		{
-			if (x == '1' || x == '0') { count++; }
-		}
-		//compares number of 1s and 0s to actal length
-		if (count != binput.Length)
-		{
-			throw new ArgumentException("Input must be binary integer");
+			if (!(x == '1' || x == '0')) { return; }
 		}
 	}
 

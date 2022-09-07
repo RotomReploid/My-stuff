@@ -1,0 +1,15 @@
+/home/runner/git/My-stuff/C#/Binary to Decimal/bin/Debug/net6.0/Binary to Decimal
+/home/runner/git/My-stuff/C#/Binary to Decimal/bin/Debug/net6.0/Binary to Decimal.deps.json
+/home/runner/git/My-stuff/C#/Binary to Decimal/bin/Debug/net6.0/Binary to Decimal.runtimeconfig.json
+/home/runner/git/My-stuff/C#/Binary to Decimal/bin/Debug/net6.0/Binary to Decimal.dll
+/home/runner/git/My-stuff/C#/Binary to Decimal/bin/Debug/net6.0/ref/Binary to Decimal.dll
+/home/runner/git/My-stuff/C#/Binary to Decimal/bin/Debug/net6.0/Binary to Decimal.pdb
+/home/runner/git/My-stuff/C#/Binary to Decimal/obj/Debug/net6.0/Binary to Decimal.csproj.AssemblyReference.cache
+/home/runner/git/My-stuff/C#/Binary to Decimal/obj/Debug/net6.0/Binary to Decimal.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/git/My-stuff/C#/Binary to Decimal/obj/Debug/net6.0/Binary to Decimal.AssemblyInfoInputs.cache
+/home/runner/git/My-stuff/C#/Binary to Decimal/obj/Debug/net6.0/Binary to Decimal.AssemblyInfo.cs
+/home/runner/git/My-stuff/C#/Binary to Decimal/obj/Debug/net6.0/Binary to Decimal.csproj.CoreCompileInputs.cache
+/home/runner/git/My-stuff/C#/Binary to Decimal/obj/Debug/net6.0/Binary to Decimal.dll
+/home/runner/git/My-stuff/C#/Binary to Decimal/obj/Debug/net6.0/ref/Binary to Decimal.dll
+/home/runner/git/My-stuff/C#/Binary to Decimal/obj/Debug/net6.0/Binary to Decimal.pdb
+/home/runner/git/My-stuff/C#/Binary to Decimal/obj/Debug/net6.0/Binary to Decimal.genruntimeconfig.cache
