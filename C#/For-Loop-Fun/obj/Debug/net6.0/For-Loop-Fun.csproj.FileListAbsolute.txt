@@ -1,0 +1,15 @@
+/home/runner/Git/My-stuff/C#/For-Loop-Fun/bin/Debug/net6.0/For-Loop-Fun
+/home/runner/Git/My-stuff/C#/For-Loop-Fun/bin/Debug/net6.0/For-Loop-Fun.deps.json
+/home/runner/Git/My-stuff/C#/For-Loop-Fun/bin/Debug/net6.0/For-Loop-Fun.runtimeconfig.json
+/home/runner/Git/My-stuff/C#/For-Loop-Fun/bin/Debug/net6.0/For-Loop-Fun.dll
+/home/runner/Git/My-stuff/C#/For-Loop-Fun/bin/Debug/net6.0/ref/For-Loop-Fun.dll
+/home/runner/Git/My-stuff/C#/For-Loop-Fun/bin/Debug/net6.0/For-Loop-Fun.pdb
+/home/runner/Git/My-stuff/C#/For-Loop-Fun/obj/Debug/net6.0/For-Loop-Fun.csproj.AssemblyReference.cache
+/home/runner/Git/My-stuff/C#/For-Loop-Fun/obj/Debug/net6.0/For-Loop-Fun.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/Git/My-stuff/C#/For-Loop-Fun/obj/Debug/net6.0/For-Loop-Fun.AssemblyInfoInputs.cache
+/home/runner/Git/My-stuff/C#/For-Loop-Fun/obj/Debug/net6.0/For-Loop-Fun.AssemblyInfo.cs
+/home/runner/Git/My-stuff/C#/For-Loop-Fun/obj/Debug/net6.0/For-Loop-Fun.csproj.CoreCompileInputs.cache
+/home/runner/Git/My-stuff/C#/For-Loop-Fun/obj/Debug/net6.0/For-Loop-Fun.dll
+/home/runner/Git/My-stuff/C#/For-Loop-Fun/obj/Debug/net6.0/ref/For-Loop-Fun.dll
+/home/runner/Git/My-stuff/C#/For-Loop-Fun/obj/Debug/net6.0/For-Loop-Fun.pdb
+/home/runner/Git/My-stuff/C#/For-Loop-Fun/obj/Debug/net6.0/For-Loop-Fun.genruntimeconfig.cache
