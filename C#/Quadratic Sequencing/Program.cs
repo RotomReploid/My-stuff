@@ -14,7 +14,8 @@ namespace myApp
     
     static void Main(string[] args)
     {
-      skipCount(1, 12);
+      skipCount(1, 20);
+      Console.ReadKey();
     }
   }
 }
