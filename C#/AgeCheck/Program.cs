@@ -18,7 +18,7 @@ namespace MyApplication
 
     static void Main(string[] args)
     {
-        Console.WriteLine("Please enter your age: ")
+        Console.WriteLine("Please enter your age: ");
         string Age = Console.ReadLine();
         int userAge = Int32.Parse(Age);
         checkAge(userAge);
