@@ -1,23 +1,15 @@
 //1,1
-var index = 0
-function oneone() {
-    if (index == 0) {
-        let audio0 = $("#1up");
-        let audio1 = $("#1down");
-    } else if (index == 1) {
-        let audio0 = $("#2up");
-        let audio1 = $("#2down");
-    }
-}
+var audio0 = $("#1up");
+var audio1 = $("#1down");
 //2,1
 function twoone() {
-    switch($(this).style.backgroundColor){
-        case red: $(this).style.backgroundColor = "green"
+    switch(document.getElementById("2-1").style.backgroundColor){
+        case "red": document.getElementById("2-1").style.backgroundColor = "green"
             break;
-        case green: $(this).style.backgroundColor = "blue"
+        case "green": document.getElementById("2-1").style.backgroundColor = "blue"
             break;
-        case blue: $(this).style.backgroundColor = "hotpink"
+        case "blue": document.getElementById("2-1").style.backgroundColor = "hotpink"
             break;
-        case hotpink: $(this).style.backgroundColor = "red"
+        case "hotpink": document.getElementById("2-1").style.backgroundColor = "red"
     }
 }
