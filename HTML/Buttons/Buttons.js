@@ -2,11 +2,11 @@
 var index = 0
 function oneone() {
     if (index == 0) {
-        let audio0 = new Audio('mixkit-rubber-duck-squeak-1014.wav');
-        let audio1 = new Audio('mixkit-rubber-duck-squeak-1014 (1).wav');
+        let audio0 = $("#1up");
+        let audio1 = $("#1down");
     } else if (index == 1) {
-        let audio0 = new Audio('swannee_whistle_descend.mp3');
-        let audio1 = new Audio('whistle.mp3')
+        let audio0 = $("#2up");
+        let audio1 = $("#2down");
     }
 }
 //2,1
