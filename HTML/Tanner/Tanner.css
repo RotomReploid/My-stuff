@@ -1,0 +1,35 @@
+form {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+label {
+    display: table-cell;
+}
+
+input {
+    display: table-cell;
+    text-align: center;
+}
+
+.title {
+    text-align: center;
+    margin: auto;
+    width: 20%;
+    padding: 1px;
+    background-color: #fa2a1b;
+    color: white;
+    font-family: sans-serif
+}
+
+#div0 {
+    text-align: center;
+    display: none;
+}
+
+body {
+    background-color: azure
+}

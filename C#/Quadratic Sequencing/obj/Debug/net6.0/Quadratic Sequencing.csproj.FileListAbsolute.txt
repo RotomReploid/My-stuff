@@ -1,0 +1,15 @@
+/home/runner/Git/My-stuff/C#/Quadratic Sequencing/bin/Debug/net6.0/Quadratic Sequencing
+/home/runner/Git/My-stuff/C#/Quadratic Sequencing/bin/Debug/net6.0/Quadratic Sequencing.deps.json
+/home/runner/Git/My-stuff/C#/Quadratic Sequencing/bin/Debug/net6.0/Quadratic Sequencing.runtimeconfig.json
+/home/runner/Git/My-stuff/C#/Quadratic Sequencing/bin/Debug/net6.0/Quadratic Sequencing.dll
+/home/runner/Git/My-stuff/C#/Quadratic Sequencing/bin/Debug/net6.0/ref/Quadratic Sequencing.dll
+/home/runner/Git/My-stuff/C#/Quadratic Sequencing/bin/Debug/net6.0/Quadratic Sequencing.pdb
+/home/runner/Git/My-stuff/C#/Quadratic Sequencing/obj/Debug/net6.0/Quadratic Sequencing.csproj.AssemblyReference.cache
+/home/runner/Git/My-stuff/C#/Quadratic Sequencing/obj/Debug/net6.0/Quadratic Sequencing.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/Git/My-stuff/C#/Quadratic Sequencing/obj/Debug/net6.0/Quadratic Sequencing.AssemblyInfoInputs.cache
+/home/runner/Git/My-stuff/C#/Quadratic Sequencing/obj/Debug/net6.0/Quadratic Sequencing.AssemblyInfo.cs
+/home/runner/Git/My-stuff/C#/Quadratic Sequencing/obj/Debug/net6.0/Quadratic Sequencing.csproj.CoreCompileInputs.cache
+/home/runner/Git/My-stuff/C#/Quadratic Sequencing/obj/Debug/net6.0/Quadratic Sequencing.dll
+/home/runner/Git/My-stuff/C#/Quadratic Sequencing/obj/Debug/net6.0/ref/Quadratic Sequencing.dll
+/home/runner/Git/My-stuff/C#/Quadratic Sequencing/obj/Debug/net6.0/Quadratic Sequencing.pdb
+/home/runner/Git/My-stuff/C#/Quadratic Sequencing/obj/Debug/net6.0/Quadratic Sequencing.genruntimeconfig.cache

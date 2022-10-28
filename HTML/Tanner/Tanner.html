@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="Tanner.css">
+        <title>The Name Rater</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    </head>
+    <script src="Tanner.js"></script>
+    <body onload="pleasework()">
+        <div class="title">
+            <h3 class="poggers0">The</h3>
+            <h1 class='poggers1'>NAME RATER</h1>
+            <p>
+                <span class='poggers2'><strong>
+                   Know if your name is objectively horrible!
+                </strong></span>
+                <sub class='poggers3'>(patent pending)</sub>
+            </p>
+        </div>
+        <p class='poggers4'>Click "submit" to rate your name!</p>
+        <p class="poggers5">Your first name:</p>
+        <form onsubmit="return false;">
+          <input type="text" id="inputbox" name="namer">
+            <br>
+            <br>
+            <input class="poggers6" type="submit" value="Submit" onclick="Rating()">
+        </form>
+        <p class="ratingtext"></p>
+        <div id='div0'>
+            <button id='rollbuttn' onclick=ricketyroll()>Click Me!</button>
+        </div>
+    </body>
+</html>
