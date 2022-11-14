@@ -1,10 +1,10 @@
 public class Card {
 
 	public static enum Suit {
-		Spades,
 		Diamonds,
 		Clubs,
-		Hearts
+		Hearts,
+		Spades
 	}
 	public static enum Rank {
 		Ace,
@@ -26,13 +26,16 @@ public class Card {
 	private Suit suit;
 	private Rank rank;
 
-    public Card(Suit suite, Rank ranke) {
+    public Card(Rank ranke, Suit suite) {
 		if (ranke != Card.Rank.Joker){
 			this.suit = suite;
 		}
 		this.rank = ranke;
     }
-
+	public Card(Rank ranke) {
+		this.rank = ranke;
+    }
+	
 	public void suit() {
 		System.out.println(this.suit);
 	}
