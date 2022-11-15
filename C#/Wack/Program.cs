@@ -4,7 +4,7 @@ public class Program
 {
     static public void Main(string[] fhqwhgads)
     {
-        string[] yes = [];
+        string[] yes = new string[0];
         Console.WriteLine("Hello");
         Main(yes);
     }
