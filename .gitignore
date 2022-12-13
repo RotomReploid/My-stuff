@@ -1,2 +1,5 @@
 .replit
 replit.nix
+.breakpoints
+pom.xml
+target/
