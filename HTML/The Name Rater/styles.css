@@ -1,0 +1,65 @@
+/* CSS styles */
+#input {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+#inputbox {
+  border: 2px red solid;
+  border-radius: 10px;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+#inputbox:focus {
+  border: 2px red solid;
+  border-radius: 10px;
+  text-align: center;
+  font-family: sans-serif;
+  outline: none;
+}
+
+#submission {
+  border: 2px #fa2a1b solid;
+  border-radius: 10px;
+  background-color: #fa2a1b;
+  padding: 5px;
+  color: white;
+  font-family: sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#submission {
+  border: 2px #fa2a1b solid;
+  border-radius: 10px;
+  background-color: #fa2a1b;
+  padding: 5px;
+  color: white;
+  font-family: sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.title {
+  text-align: center;
+  margin: auto;
+  width: 20%;
+  padding: 1px;
+  background-color: #fa2a1b;
+  color: white;
+  font-family: sans-serif;
+  border: 10px #fa2a21 solid;
+}
+
+#div0 {
+  text-align: center;
+  display: none;
+}
+
+body {
+  background-color: azure;
+}
