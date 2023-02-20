@@ -3,3 +3,4 @@ replit.nix
 .breakpoints
 pom.xml
 target/
+.upm/
